@@ -22,4 +22,6 @@ if (true)             //if k andar block scope, bahar global scope
 
     // console.log(c);  
     // console.log(d);
-  
+  //NOTE
+  //GLOBAL SCOPE IN NODE ENVIRONMENT IS DIFFERENT, AND IN BROWSER BY DNG INSPECT CONSOLE
+  //GLOBAL SCOPE THERE WILL BE DIFFERENT
